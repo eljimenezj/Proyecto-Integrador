@@ -4,5 +4,7 @@ Este repositorio contiene el desarrollo y los resultados del proyecto integrador
 Los estudiantes que presentan este trabajo son:
 
 **1. Jesus Alberto Arcia**
+
 **2. Jorge Luis Renteria**
+
 **3. Edgar Leandro Jiménez**
