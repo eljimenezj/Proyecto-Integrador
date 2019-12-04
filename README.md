@@ -12,7 +12,7 @@ Los estudiantes que presentan este trabajo son:
 ## Resumén
 
 
-## DESCRIPCIÓN PROBLEMA – CONTEXTO. 
+## Descripción del problema - Contexto 
 
 El estudio del Social Media Data Mining y el estudio de comunidades ha venido tomando cada vez más fuerza gracias a la creciente cantidad de datos que hay en internet y la cantidad de usuarios que interactúan en ella día a día. 
 
